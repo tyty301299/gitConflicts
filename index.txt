@@ -1,1 +1,1 @@
-Checkout branch B
+Checkout branch B commit
